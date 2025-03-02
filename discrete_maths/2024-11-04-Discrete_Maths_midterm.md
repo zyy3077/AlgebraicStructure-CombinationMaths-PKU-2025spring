@@ -3,7 +3,7 @@
 ### 1. 基本概念
 - 幂集$P(A), 2^A$
   - **设$A$为集合，称$A$的全体子集构成的集合为$A$的幂集**
-  - $P(A)=\lbrace X \mid X \\subseteq A \rbrace$
+  - $P(A)=\lbrace X \mid X \subseteq A \rbrace$
   - 如果$A$是$n$元集，$P(A)$有$2^n$个元素
 - 对称差$A \oplus B$
   - **$A \oplus B = (A-B)\cup (B-A)$**
